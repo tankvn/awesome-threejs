@@ -7,7 +7,9 @@ A curated list of awesome ThreeJS resources.
 ## Index
 * [Crystal](#Crystal)
 * [Ball](#Ball)
+* [Build](#Build)
 * [Node](#Node)
+* [Water](#Water)
 * [Other](#Other)
 
 Crystal
@@ -28,11 +30,23 @@ Name | Preview
 [Bingo balls](https://boytchev.github.io/etudes/threejs/bingo-balls.html) | <img src="https://boytchev.github.io/etudes/snapshots/bingo-balls.jpg" width="98%">
 [Rolling ball](https://boytchev.github.io/etudes/threejs/rolling-ball.html) | <img src="https://boytchev.github.io/etudes/snapshots/rolling-ball.jpg" width="98%">
 
+Build
+======================
+Name | Preview
+--- | ---
+[Color Customizer](https://tympanus.net/codrops/2019/09/17/how-to-build-a-color-customizer-app-for-a-3d-model-with-three-js/) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2019/09/3DModelCustomizer01.jpg" width="98%">
+
 Node
 ======================
 Name | Preview
 --- | ---
 [node](https://ykob.github.io/sketch-threejs/sketch/node.html) | <img src="https://ykob.github.io/sketch-threejs/img/common/ogp_node.jpg" width="98%">
+
+Water
+======================
+Name | Preview
+--- | ---
+[water shader](https://codepen.io/knoland/pen/XKxrJb) | <img src="https://shots.codepen.io/knoland/pen/XKxrJb-800.jpg" width="98%">
 
 Other
 ======================
