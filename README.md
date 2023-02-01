@@ -48,6 +48,7 @@ Name | Preview
 --- | ---
 [Water](https://martinrenou.github.io/threejs-water/) | <img src="https://raw.githubusercontent.com/martinRenou/threejs-water/master/water.png" width="98%">
 [Water shader](https://codepen.io/knoland/pen/XKxrJb) | <img src="https://shots.codepen.io/knoland/pen/XKxrJb-800.jpg" width="98%">
+[Ocean shader](https://threejs.org/examples/webgl_shaders_ocean.html) | <img src="https://threejs.org/examples/screenshots/webgl_shaders_ocean.jpg" width="98%">
 
 Other
 ======================
