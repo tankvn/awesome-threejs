@@ -46,7 +46,8 @@ Water
 ======================
 Name | Preview
 --- | ---
-[water shader](https://codepen.io/knoland/pen/XKxrJb) | <img src="https://shots.codepen.io/knoland/pen/XKxrJb-800.jpg" width="98%">
+[Water](https://martinrenou.github.io/threejs-water/) | <img src="https://raw.githubusercontent.com/martinRenou/threejs-water/master/water.png" width="98%">
+[Water shader](https://codepen.io/knoland/pen/XKxrJb) | <img src="https://shots.codepen.io/knoland/pen/XKxrJb-800.jpg" width="98%">
 
 Other
 ======================
