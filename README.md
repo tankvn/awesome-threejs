@@ -8,6 +8,7 @@ A curated list of awesome ThreeJS resources.
 * [Crystal](#Crystal)
 * [Ball](#Ball)
 * [Build](#Build)
+* [Controls](#Controls)
 * [Node](#Node)
 * [Water](#Water)
 * [Other](#Other)
@@ -35,6 +36,12 @@ Build
 Name | Preview
 --- | ---
 [Color Customizer](https://tympanus.net/codrops/2019/09/17/how-to-build-a-color-customizer-app-for-a-3d-model-with-three-js/) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2019/09/3DModelCustomizer01.jpg" width="98%">
+
+Controls
+======================
+Name | Preview
+--- | ---
+[camera-controls](https://github.com/yomotsu/camera-controls) | <img src="https://raw.githubusercontent.com/yomotsu/camera-controls/dev/examples/fig1.svg" width="98%">
 
 Node
 ======================
