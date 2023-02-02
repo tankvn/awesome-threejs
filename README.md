@@ -10,6 +10,7 @@ A curated list of awesome ThreeJS resources.
 * [Build](#Build)
 * [Controls](#Controls)
 * [Node](#Node)
+* [Showcase](#Showcase)
 * [Water](#Water)
 * [Other](#Other)
 
@@ -48,6 +49,12 @@ Node
 Name | Preview
 --- | ---
 [node](https://ykob.github.io/sketch-threejs/sketch/node.html) | <img src="https://ykob.github.io/sketch-threejs/img/common/ogp_node.jpg" width="98%">
+
+Showcase
+======================
+Name | Preview
+--- | ---
+[Online CAD Viewer](https://viewer.autodesk.com/designviews) | <img src="https://help.autodesk.com/cloudhelp/ENU/ADSKVIEWER-Help/images/model-browser.gif" width="98%">
 
 Water
 ======================
