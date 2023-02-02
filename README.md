@@ -9,6 +9,7 @@ A curated list of awesome ThreeJS resources.
 * [Ball](#Ball)
 * [Build](#Build)
 * [Controls](#Controls)
+* [Examples](#Examples)
 * [Node](#Node)
 * [Showcase](#Showcase)
 * [Water](#Water)
@@ -44,6 +45,13 @@ Name | Preview
 --- | ---
 [camera-controls](https://github.com/yomotsu/camera-controls) | <img src="https://raw.githubusercontent.com/yomotsu/camera-controls/dev/examples/fig1.svg" width="98%">
 
+Examples
+======================
+Name | Preview
+--- | ---
+[Stemkoski Examples](http://stemkoski.github.io/Three.js/index.html) | <img src="http://stemkoski.github.io/Three.js/html-images/Viewports-Quad.png" width="98%">
+[HofK.de Examples](https://hofk.de/main/discourse.threejs/) | <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/3X/7/0/70fb0269210f6d61933f9075301f44638fcf1fcb.png" width="98%">
+
 Node
 ======================
 Name | Preview
@@ -55,6 +63,7 @@ Showcase
 Name | Preview
 --- | ---
 [Online CAD Viewer](https://viewer.autodesk.com/designviews) | <img src="https://help.autodesk.com/cloudhelp/ENU/ADSKVIEWER-Help/images/model-browser.gif" width="98%">
+[Online 3D Viewer](https://github.com/kovacsv/Online3DViewer) | <img src="https://raw.githubusercontent.com/kovacsv/Online3DViewer/master/assets/images/3dviewer_net_start_page.png" width="98%">
 
 Water
 ======================
