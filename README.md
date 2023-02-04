@@ -14,6 +14,7 @@ A curated list of awesome ThreeJS resources.
 * [Globe](#Globe)
 * [Node](#Node)
 * [Showcase](#Showcase)
+* [Simulator](#Simulator)
 * [Water](#Water)
 * [Other](#Other)
 
@@ -67,6 +68,7 @@ Globe
 Name | Preview
 --- | ---
 [Globe](https://tympanus.net/codrops/2021/04/05/how-to-create-a-globe-and-add-cities-using-three-js/) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/04/planet.jpg" width="100%">
+[Solar System](https://eyes.nasa.gov/apps/solar-system/) | <img src="https://threejs.org/files/projects/solar-system.png" width="100%">
 
 Node
 ======================
@@ -80,6 +82,12 @@ Name | Preview
 --- | ---
 [Online CAD Viewer](https://viewer.autodesk.com/designviews) | <img src="https://help.autodesk.com/cloudhelp/ENU/ADSKVIEWER-Help/images/model-browser.gif" width="100%">
 [Online 3D Viewer](https://github.com/kovacsv/Online3DViewer) | <img src="https://raw.githubusercontent.com/kovacsv/Online3DViewer/master/assets/images/3dviewer_net_start_page.png" width="100%">
+
+Simulator
+======================
+Name | Preview
+--- | ---
+[Flying Simulator](https://domenicobrz.github.io/webgl/projects/flying%20simulation/) | <img src="https://domenicobrz.github.io/webgl/images/projects/flyingsimulator.jpg" width="100%">
 
 Water
 ======================
