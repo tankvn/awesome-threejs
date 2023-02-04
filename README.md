@@ -10,6 +10,7 @@ A curated list of awesome ThreeJS resources.
 * [Build](#Build)
 * [Controls](#Controls)
 * [Examples](#Examples)
+* [Effects](#Effects)
 * [Node](#Node)
 * [Showcase](#Showcase)
 * [Water](#Water)
@@ -51,6 +52,12 @@ Name | Preview
 --- | ---
 [Stemkoski Examples](http://stemkoski.github.io/Three.js/index.html) | <img src="http://stemkoski.github.io/Three.js/html-images/Viewports-Quad.png" width="98%">
 [HofK.de Examples](https://hofk.de/main/discourse.threejs/) | <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/3X/7/0/70fb0269210f6d61933f9075301f44638fcf1fcb.png" width="98%">
+
+Effects
+======================
+Name | Preview
+--- | ---
+[3D Typing Effects ☁️🫧🌸👀](https://tympanus.net/codrops/2022/11/08/3d-typing-effects-with-three-js/) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2022/11/3DType-400x300.jpg" width="98%">
 
 Node
 ======================
