@@ -33,6 +33,7 @@ Name | Preview
 [Jelly balls](https://boytchev.github.io/etudes/threejs/jelly-balls.html) | <img src="https://boytchev.github.io/etudes/snapshots/jelly-balls.jpg" width="98%">
 [Bingo balls](https://boytchev.github.io/etudes/threejs/bingo-balls.html) | <img src="https://boytchev.github.io/etudes/snapshots/bingo-balls.jpg" width="98%">
 [Rolling ball](https://boytchev.github.io/etudes/threejs/rolling-ball.html) | <img src="https://boytchev.github.io/etudes/snapshots/rolling-ball.jpg" width="98%">
+[Magical Marbles](https://tympanus.net/codrops/2021/08/02/magical-marbles-in-three-js/) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/08/marble.jpg" width="98%">
 [Dice Roller](https://tympanus.net/codrops/2023/01/25/crafting-a-dice-roller-with-three-js-and-cannon-es/) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/01/diceroller-1.jpg" width="98%">
 
 Build
@@ -58,7 +59,7 @@ Effects
 ======================
 Name | Preview
 --- | ---
-[3D Typing Effects](https://tympanus.net/codrops/2022/11/08/3d-typing-effects-with-three-js/) [☁️](https://tympanus.net/Development/3DTypeEffects/index.html) [🫧](https://tympanus.net/Development/3DTypeEffects/02_bubbles.html) [🌸](https://tympanus.net/Development/3DTypeEffects/03_flowers.html) [👀](https://tympanus.net/Development/3DTypeEffects/04_eyes.html) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2022/11/3DType-400x300.jpg" width="98%">
+[3D Typing Effects](https://tympanus.net/codrops/2022/11/08/3d-typing-effects-with-three-js/) [☁️](https://tympanus.net/Development/3DTypeEffects/index.html) [🫧](https://tympanus.net/Development/3DTypeEffects/02_bubbles.html) [🌸](https://tympanus.net/Development/3DTypeEffects/03_flowers.html) [👀](https://tympanus.net/Development/3DTypeEffects/04_eyes.html) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2022/11/3DType-400x300.jpg" width="100%">
 
 Node
 ======================
