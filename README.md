@@ -9,6 +9,7 @@ A curated list of awesome ThreeJS resources.
 * [Ball](#Ball)
 * [Build](#Build)
 * [Controls](#Controls)
+* [Cloud](#Cloud)
 * [Examples](#Examples)
 * [Effects](#Effects)
 * [Globe](#Globe)
@@ -50,6 +51,13 @@ Name | Preview
 --- | ---
 [camera-controls](https://github.com/yomotsu/camera-controls) | <img src="https://raw.githubusercontent.com/yomotsu/camera-controls/dev/examples/fig1.svg" width="100%">
 
+Controls
+======================
+Name | Preview
+--- | ---
+[Cloud](https://threejs.org/examples/webgl2_volume_cloud.html) | <img src="https://threejs.org/examples/screenshots/webgl2_volume_cloud.jpg" width="100%">
+[Clouds](https://tympanus.net/codrops/2020/01/28/how-to-create-procedural-clouds-using-three-js-sprites/) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2020/01/ProceduralClouds_featured-1.jpg" width="100%">
+
 Examples
 ======================
 Name | Preview
@@ -68,7 +76,7 @@ Globe
 Name | Preview
 --- | ---
 [Globe](https://tympanus.net/codrops/2021/04/05/how-to-create-a-globe-and-add-cities-using-three-js/) | <img src="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/04/planet.jpg" width="100%">
-[Solar System](https://eyes.nasa.gov/apps/solar-system/) | <img src="https://threejs.org/files/projects/solar-system.png" width="100%">
+[Solar System](https://eyes.nasa.gov/apps/solar-system/) | <img src="https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA11800.width-1600.jpg" width="100%">
 
 Node
 ======================
